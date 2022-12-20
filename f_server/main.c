@@ -6,11 +6,11 @@
 /*   By: brumarti <brumarti@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/05 15:50:11 by brumarti          #+#    #+#             */
-/*   Updated: 2022/12/13 15:20:42 by brumarti         ###   ########.fr       */
+/*   Updated: 2022/12/20 19:38:46 by brumarti         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../libft/libft.h"
+#include "../minitalk.h"
 
 static int	decoder(char *str)
 {
